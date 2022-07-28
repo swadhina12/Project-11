@@ -6,7 +6,7 @@
 ![This is an image](./project.jpg)
 
 ### As a result of this project, I learn the following:
-[LIVE-LINK](https://projectinteriordesign.netlify.app/)
+[LIVE-LINK](https://projecthosting.netlify.app/)
 
 - [x] Learned to use flex and grid for layout
 - [x] used to fixed property and tried to make the navbar responsive.
